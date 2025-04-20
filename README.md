@@ -27,6 +27,7 @@ for:
 - Human build 38 (`grch38`)
 - Human build 37 (`grch37`)
 - Mouse (`grcm38`)
+- Dog (`cfam1`)
 - Rat (`rnor6`)
 - Chicken (`galgal5`)
 - Worm (`wbcel235`)
